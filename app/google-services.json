@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303030363928",
+    "project_id": "locallandmark-1d50a",
+    "storage_bucket": "locallandmark-1d50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303030363928:android:f59158084006a11ffae06d",
+        "android_client_info": {
+          "package_name": "com.example.locallandmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303030363928-ao1s8c77jak7kaq7m76l601do6k1toua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6rC2B0JtwnZQej9m8QjVVjeQVfsKyZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303030363928-ao1s8c77jak7kaq7m76l601do6k1toua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

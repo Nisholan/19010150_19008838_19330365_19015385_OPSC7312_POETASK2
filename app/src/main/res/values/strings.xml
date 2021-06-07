@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocalLandmark</string>
+    <string-array name="LandmarkTypes">
+        <item>Popular</item>
+        <item>Modern</item>
+        <item>Historical</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
