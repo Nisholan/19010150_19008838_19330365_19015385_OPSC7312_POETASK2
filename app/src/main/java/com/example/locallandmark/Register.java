@@ -60,6 +60,14 @@ public class Register extends AppCompatActivity {
            startActivity(new Intent(getApplicationContext(),MainActivity.class));
        }
 
+       //Text View Click for Sign in
+       txtViewLogin.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View view) {
+               startActivity(new Intent(getApplicationContext(),Login.class));
+           }
+       });
+
         showHideBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -73,14 +81,6 @@ public class Register extends AppCompatActivity {
             }
 
         });
-
-       //Text View Click for Sign in
-       txtViewLogin.setOnClickListener(new View.OnClickListener() {
-           @Override
-           public void onClick(View view) {
-               startActivity(new Intent(getApplicationContext(),Login.class));
-           }
-       });
 
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
